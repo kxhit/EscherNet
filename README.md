@@ -20,7 +20,7 @@
   </p>
 
 [comment]: <> (  <h2 align="center">PAPER</h2>)
-  <h3 align="center"><a href="https://kxhit.github.io/eschernet/EscherNet.pdf">Paper</a> | <a href="https://kxhit.github.io/EscherNet">Project Page</a></h3>
+  <h3 align="center"><a href="https://arxiv.org/abs/2402.03908">Paper</a> | <a href="https://kxhit.github.io/EscherNet">Project Page</a></h3>
   <div align="center"></div>
 
 <p align="center">
@@ -163,10 +163,10 @@ We have intensively borrow codes from the following repositories. Many thanks to
 If you find this work useful, a citation will be appreciated via:
 
 ```
-@article{eschernet,
+@article{kong2024eschernet,
     title={EscherNet: A Generative Model for Scalable View Synthesis},
   author={Kong, Xin and Liu, Shikun and Lyu, Xiaoyang and Taher, Marwan and Qi, Xiaojuan and Davison, Andrew J},
-  journal={arXiv preprint arXiv:},
+  journal={arXiv preprint arXiv:2402.03908},
   year={2024}
 }
 ```
